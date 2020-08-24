@@ -1,6 +1,6 @@
 extends KinematicBody2D
 
-
+#comments in GDScript
 extends KinematicBody2D
  
 const MOVE_SPEED = 300
